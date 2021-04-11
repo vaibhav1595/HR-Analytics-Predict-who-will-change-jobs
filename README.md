@@ -31,8 +31,12 @@ Predict whether an applicant will search for a new job or stay with the company,
 
 <p align="center"><img width="1500" height="1000" src="https://github.com/vaibhav1595/HR-Analytics-Predict-who-will-change-jobs/blob/main/images/segregating%20seekers%20%26%20non-seekers.png"></p>
 
-- Visualize Model Results 
+### Buidling a Model
 
+- Transformed the categorical variables to dummy variables.
+- Performed several machine learning algorithms such as Support Vector Machine, Decision Tree, Random Forest, Logistic Regression, KNN, and XG Boost.
+- Improved the performance of Logistics Regression & Random Forest models by re-training them with SMOTE
+- Visualize the results
 <p align="center"><img width="1500" height="1300" src="https://github.com/vaibhav1595/HR-Analytics-Predict-who-will-change-jobs/blob/main/images/model_performance%20-%20selection%20%26%20overview.png"></p>
 
 
