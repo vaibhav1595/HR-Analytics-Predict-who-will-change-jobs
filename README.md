@@ -1,4 +1,7 @@
 # HR-Analytics-Predict-who-will-change-jobs
+
+The deployed web-app is live now - [HR Analytics Web-App](https://job-change-prediction-app.herokuapp.com/)
+
 Predict whether an applicant will search for a new job or stay with the company, as well as interpret the impact of various factors on an employee's decision.
 
 - Developed a webapp using streamlit and heroku which predicts whether an applicant is looking for a new data science job or not with an Accuracy of **84.0%**.
@@ -39,4 +42,7 @@ Predict whether an applicant will search for a new job or stay with the company,
 - Visualize the results
 <p align="center"><img width="1500" height="1300" src="https://github.com/vaibhav1595/HR-Analytics-Predict-who-will-change-jobs/blob/main/images/model_performance%20-%20selection%20%26%20overview.png"></p>
 
+### Productionize the Machine Learning model
+
+In this final stage, I've created a web-app using Streamlit and deployed it on Heroku Platform. The deployed web-app is live now - [HR Analytics Web-App](https://job-change-prediction-app.herokuapp.com/)
 
